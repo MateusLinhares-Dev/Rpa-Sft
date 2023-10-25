@@ -1,2 +1,18 @@
-# Rpa-Sft
-Automação de RPA para alteração de campo
+# Automatização de processos para renomear imagens
+
+## Objetivo
+
+  O principio básico dessa aplicação tem de reduzir o tempo gasto diariamente com as renomeações dos arquivos em que uso no dia a dia profissional, algumas imagens vem com os caracteres especiais, dificultando assim a importação para ferramentas terceiras. Sendo assim tive obejtivo de criar algo que me ajudaria nessa limpeza de caracteres especiais(--Á, É, Í, Ó, Ú,º, ª--).
+
+## Depêndencias
+
+- Flask: Para esta solução usamos este framework para criar um pequeno servidor WEB para lidar com uploads, renomeação e download de arquivos.
+- Os: Foi usado para manipulação dos arquivos usados para upload e download.
+- re: Utilizado remove_special_characters para remover caracteres especiais dos nomes de arquivo.
+
+# Bibliotecas 
+
+```
+ pip install flask
+
+```

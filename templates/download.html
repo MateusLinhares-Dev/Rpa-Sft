@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download</title>
+</head>
+<body>
+    <h2>Download Links:</h2>
+    {% for filename in filenames %}
+        <p><a href="/download/{{ filename }}">{{ filename }}</a></p>
+    {% endfor %}
+</body>
+</html>

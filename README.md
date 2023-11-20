@@ -24,7 +24,7 @@ Esse projeto é usado pelas seguintes empresas:
 
 # Melhorias futuras
 
--  Tenho como objetivo, adptar uma IA para classificar essas alterações de caracteres especiais e também classificar o tipo do arquivo e ajustar o tamanho, para isso estou construindo uma base de aprendizagem para a mesma. Objetivo desta entrega está programada para dia 10/11
+-  Tenho como objetivo, adptar um ML para classificar essas alterações de caracteres especiais e também classificar o tipo do arquivo e ajustar o tamanho, para isso estou construindo uma base de aprendizagem para a mesma. Objetivo desta entrega está programada para dia 10/11
 
 ## Bibliotecas 
 
